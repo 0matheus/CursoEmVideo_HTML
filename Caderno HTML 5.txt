@@ -1,0 +1,44 @@
+
+
+
+Símbolos especiais
+
+	TAG's
+	- &lt; //Menor que
+	- &gt; //Maior que
+	- &le; //Menor ou igual
+	- &ge; //Maior ou igual
+	
+	Simbolos Monetarios
+	- &pound;
+	- &yen;
+	- &euro;
+	
+	- &copy;
+	- &reg;
+	- &trade;
+	
+	- &permil;
+	- &sum;
+	- &infin;
+	- &times;
+	- &plusmn;
+	- &oplus;
+	- &radic;
+	- &ne
+	
+	- &Delta;
+	- &Lambda;
+	- &omega;
+	- &phi;
+	
+	- &larr;
+	- &rarr;
+	- &uarr;
+	- &darr;
+	- &harr;
+	
+	- &spades;
+	- &clubs;
+	- &hearts;
+	- &diams;
